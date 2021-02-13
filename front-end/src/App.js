@@ -1,9 +1,11 @@
 import './App.css';
 
+import UserRegister from './pages/UserRegister'
+
 function App() {
   return (
     <>
-      <h1>Xbox-Page</h1>
+      <UserRegister />
     </>
   );
 }

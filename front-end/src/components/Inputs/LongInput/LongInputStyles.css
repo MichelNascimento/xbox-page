@@ -1,0 +1,23 @@
+input {
+  background-color: #101010;
+  width: 80%;
+  height: 50PX;
+  padding: 0 15px;
+  border: 2px solid #101010;
+  border-radius: 5px;
+  transition: 0.2s ease-in-out;
+  outline: none;
+  font-size: 16px;
+  color: #E5E5E5;
+}
+
+input:focus {
+  border: 2px solid #6AA836;
+  transition: 0.2s ease-in-out;
+}
+
+input:focus::placeholder {
+  color: #6AA836;
+  transition: 0.2s ease-in-out;
+}
+
