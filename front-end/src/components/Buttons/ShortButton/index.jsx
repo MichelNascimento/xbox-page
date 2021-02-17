@@ -1,4 +1,4 @@
-import './ShortButtonStyles.css'
+import './styles.css'
 
 const ShortButton = () => {
   return (

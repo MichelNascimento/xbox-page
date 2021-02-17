@@ -1,8 +1,8 @@
-import './LongInputStyles.css'
+import './styles.css'
 
 const LongInput = (props) => {
   return (
-    <input type={props.type} placeholder={props.placeholder}/>
+    <input className="long-input" type={props.type} placeholder={props.placeholder}/>
   )
 }
 

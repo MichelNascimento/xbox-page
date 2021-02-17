@@ -1,7 +1,7 @@
-input {
+.short-input {
   background-color: #101010;
-  width: 80%;
-  height: 50PX;
+  width: 48%;
+  height: 50px;
   padding: 0 15px;
   border: 2px solid #101010;
   border-radius: 5px;

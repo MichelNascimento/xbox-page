@@ -1,8 +1,8 @@
-import './ShortInputStyles.css'
+import './styles.css'
 
 const ShortInput = (props) => {
   return (
-    <input type={props.type} placeholder={props.placeholder}/>
+    <input className="short-input" type={props.type} placeholder={props.placeholder}/>
   )
 }
 

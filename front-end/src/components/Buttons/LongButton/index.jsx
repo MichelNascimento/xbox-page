@@ -1,4 +1,4 @@
-import './LongButtonStyles.css'
+import './styles.css'
 
 const LongButton = (props) => {
   return (
